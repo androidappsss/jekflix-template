@@ -71,7 +71,8 @@ Or install it yourself as:
 ```
 $ gem install jekflix
 ```
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 ### Theme Colors
 
 Create the file `/assets/css/styles.scss` and add:
